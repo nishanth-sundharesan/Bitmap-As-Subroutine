@@ -20,5 +20,6 @@ To run this program:
 4. Hit Execute button.  
 5. Hit Play button again, this time it is the second button from left on the Menu bar.  
 
-Image Courtesy: WolfInGameShot.bmp - sourceforge.net  
-		WolfStartScreen.bmp - dosgamesarchive.com
+Image Courtesy:  
+WolfInGameShot.bmp - sourceforge.net  
+WolfStartScreen.bmp - dosgamesarchive.com
